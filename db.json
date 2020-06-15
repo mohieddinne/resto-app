@@ -1,0 +1,65 @@
+{
+  "posts": [
+    {
+      "itemname": "Poutine",
+      "availabletime": "7:00-11:00,17:00-22:00",
+      "price": 20,
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Food_at_WIkimanian_2017_02.jpg/1200px-Food_at_WIkimanian_2017_02.jpg"
+      ,"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry'sstandard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "itemname": "Tacos",
+      "availabletime": "7:00-11:00,17:00-22:01",
+      "price": 15,
+      "src": "https://www.mesinspirationsculinaires.com/wp-content/uploads/2017/11/recette-tacos-au-poulet1.jpg"
+      ,"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry'sstandard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "itemname": "Chicken rice",
+      "availabletime": "7:00-11:00,17:00-22:02",
+      "price": 35,
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Hainanese_Chicken_Rice.jpg"
+      ,"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry'sstandard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "itemname": "set dosa",
+      "availabletime": "7:00-11:00,17:00-22:03",
+      "price": 30,
+      "src": "https://i.pinimg.com/originals/37/4b/27/374b274cc7efdbf7ac611a0e8523e299.jpg"
+      ,"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry'sstandard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "itemname": "Potato chips",
+      "availabletime": "7:00-11:00,17:00-22:04",
+      "price": 40,
+      "src": "https://img-global.cpcdn.com/recipes/c1c94c665b29d19f/751x532cq70/healthy-iddli-recipe-main-photo.jpg"
+      ,"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry'sstandard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    }
+  ],
+  "Users": [
+    {
+      "userName": "moha",
+      "Address": "rue 5114",
+      "userEmail": "admin@mohi.com",
+      "password": "0000",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "userName": "User1",
+      "Address": "51114",
+      "userEmail": "User1@gmail.com",
+      "password": "12345",
+      "role": "Client",
+      "id": 2
+    },
+    {
+      "userName": "User2",
+      "Address": "maloulech",
+      "userEmail": "User2@gmail.com",
+      "password": "123456",
+      "role": "Client",
+      "id": 3
+    }
+  ]
+}
